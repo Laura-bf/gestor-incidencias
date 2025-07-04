@@ -1,0 +1,46 @@
+# ----------------------
+# Maven
+# ----------------------
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Maven logs
+mvnw.cmd
+mvnw
+mvnw.*
+/log/
+
+# ----------------------
+# Eclipse
+# ----------------------
+.project
+.classpath
+.factorypath
+.settings/
+bin/
+
+# ----------------------
+# IntelliJ IDEA (por si lo abres con otro IDE)
+# ----------------------
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# ----------------------
+# General
+# ----------------------
+*.log
+*.tmp
+*.bak
+*.swp
+
+# ----------------------
+# OS-specific
+# ----------------------
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+
